@@ -1,36 +1,44 @@
 # Countdown
 
-<img src="./img/img.png" width="450px" alt="Disney+ Page">
+<img src="./img/Countdown.gif" width="800px" height="400px" alt="Gif do Teste">
 
->  Countdowns 
+>  The page is a countdown to my birthday.
 
-Confira a aplicação: https://kayke-fujinaka.github.io/Countdown/
+Check the Application: https://kayke-fujinaka.github.io/Countdown/
+## 📁 Pages
 
-## 🚀 Technologies
+The project has only one page:
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+- **Home Page:** The page is a countdown to my birthday.
+## :rocket: Technologies ##
 
-- JavaScript
-- Grid
+The following tools were used in this project:
 
-## 🤝 Colaboradores
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+## 🤝 Collaborators
+
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
         <sub>
-          <b>Kayke Fujinaka</b>
+          <b>Kayke Alves Fujinaka</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
+&#xa0;
+
+<a href="#top">Back to top</a>
