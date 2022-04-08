@@ -1,6 +1,6 @@
 # Countdown
 
-<img src="./img/Countdown.gif" width="800px" height="400px" alt="Gif do Teste">
+<img src="./img/Countdown.gif" alt="Gif do Teste">
 
 >  The page is a countdown to my birthday.
 
